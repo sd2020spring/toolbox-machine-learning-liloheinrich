@@ -1,5 +1,5 @@
 # Machine Learning Toolbox  
-Software Design Machine Learning Project Toolbox 
+Software Design Machine Learning Project Toolbox  
 Full instructions are on [the toolbox page](https://sd2020spring.github.io/toolboxes/machine-learning).
 
 To run, in command prompt:
